@@ -1,0 +1,230 @@
+body{
+    margin:0;
+    padding:0;
+    
+}
+#produ{
+    font-size: 20px;
+}
+.pSimples{
+    margin-top: 50px;
+}
+.ladeira{
+    margin-right: 390px;
+}
+.reais{
+    font-size: 20px;
+    margin-top: 50px;
+    color: #33149f;
+}
+
+.footer{
+    background-color: #1b0b54;
+    
+}
+.imgF{
+    width: 110px;
+    height: 120px;
+    margin-left: 260px;   
+}
+.ftPixe{
+    width: 80px;
+    height: 100px;
+    display: flex;
+    align-self: center;
+    margin-top: 20px;
+}
+.nova{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+.plan{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+    margin-right: 190px;
+    width: 100%;
+}
+.plan1{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+    width: 100%;
+}
+.cen{
+    text-align: start;
+    margin-left: 135px;
+    margin-bottom: 70px;
+}
+.plans{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+.form{
+    margin: 20px;
+    display: flex;
+    text-align: start;
+    border: solid black 1px;
+    flex-direction: column;
+    width: 300px;
+    gap: 5px;
+    justify-content: space-around;
+    padding: 5px;
+    background-color: #dcdcdc;
+}
+.new{
+    border: solid 1px black;
+}
+.trocar{
+    border: solid 2px red;
+}
+.data{
+    border: solid 2px red;
+    width: 60px;
+}
+.verde{
+    background-color: green;
+    color: white;
+}
+.corLetra{
+    color: red;
+    text-align: center;
+}
+#plano{
+    width: 190px;
+    height: 50px;
+}
+.dias{
+    width: 60px;
+}
+.dt{
+    display: flex;
+    flex-direction: row;
+    gap: 3px;
+}
+.imgCartao{
+    width: 60px;
+    height: 70px;
+}
+.imagem1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+
+}
+#imagem{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    
+}
+.back{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    border: solid black 1px;
+    border-radius: 12px;
+    background-color: #dcdcdc;
+    padding: 7px;
+}
+.back1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    border-radius: 12px;
+    background-color: #dcdcdc;
+    padding: 7px;
+}
+
+.decida{
+    display: flex;
+    flex-direction: column;
+}
+.pix{
+    width: 60px;
+    height: 30px;
+}
+.pagamentoAvista{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+    background-color: #dcdcdc;
+    border-radius: 12px;
+    padding: 7px;
+    height: 70px;
+}
+.selecionado{
+    border: solid black 1px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+    height: 70px;
+    background-color: #dcdcdc;
+    padding: 7px;
+}
+
+#comp {
+    display: flex;
+    margin-left: 70px;
+    padding: 20px;
+    background-color: #dcdcdc;
+    flex-direction: column;
+    border-top: solid 20px #1b0b54;
+    border-radius: 15px;
+    width: 290px;
+}
+#preco1{
+    background-color: #dcdcdc;
+    padding: 20px;
+    height: 290px;
+    width: 180px;
+    text-align: center;
+    border-top: solid 20px #1b0b54 ;
+}
+#preco2{
+    background-color: #dcdcdc;
+    padding: 20px;
+    height: 290px;
+    width: 180px;
+    text-align: center;
+    border-top: solid 20px #1b0b54 ;
+}
+#preco3{
+    background-color: #dcdcdc;
+    padding: 20px;
+    height: 290px;
+    width: 180px;
+    text-align: center;
+    border-top: solid 20px #1b0b54 ;
+}
+.compras1{
+    margin-top: 30px;
+    width: 100px;
+    
+    text-align: center;
+    
+}
+.pBaixo{
+    text-align: center;
+    margin-right: 3px;
+}
+.fundoo{
+    background-color: #1b0b54;
+    color: white;
+    width: 100%;
+    height: 200px;
+    padding: 30px;
+}
